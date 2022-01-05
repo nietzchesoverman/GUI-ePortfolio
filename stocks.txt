@@ -1,0 +1,42 @@
+type = stock
+symbol = gme
+name = Gamestonk
+quantity = 69
+price = 20.0
+bookvalue = 1389.99
+
+type = stock
+symbol = CLF
+name = Cleavland memes
+quantity = 8
+price = 25.0
+bookvalue = 209.99
+
+type = Stock
+symbol = AMC
+name = Movie THeatre Babyyy
+quantity = 10
+price = 40.0
+bookvalue = 409.99
+
+type = mutual fund
+symbol = BOI
+name = memes extreme
+quantity = 10
+price = 20.0
+bookvalue = 200.0
+
+type = Stock
+symbol = APPL
+name = Apple
+quantity = 20
+price = 500.0
+bookvalue = 10009.99
+
+type = Stock
+symbol = AMD
+name = Advanced Micro Devices
+quantity = 30
+price = 55.0
+bookvalue = 1659.99
+
