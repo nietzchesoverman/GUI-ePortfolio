@@ -20,7 +20,7 @@ FOLDERS
 -------
 Javadocs: The associated javadocs containing interactive HTML versions of source files
 
-ePortfolio: This is the Package folder containing .class and .java files
+ePortfolio: This is the Package folder containing .java files
 
 stocks.txt: Test file provided for file I/O and quick testing of GUI without having to manually enter
 
